@@ -1,5 +1,5 @@
 
-# Web Search Script
+# Web Security Search Script
 
 This script automates the process of opening security analysis tools for a specified domain. It launches Security Headers and SSL Labs in a web browser with preloaded queries for the target domain, helping users assess security headers and SSL/TLS configuration.
 
